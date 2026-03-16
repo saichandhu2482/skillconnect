@@ -1,0 +1,8 @@
+export const workers = [
+  { id: 1, name: 'Raju Bhai', skill: 'Plumber', location: 'Hyderabad', avatar: '🔧', color: '#1e3a5f', tags: ['Pipe Repair', 'Leakage', 'Bathroom'], rating: 4.8, reviews: 120, price: 200, phone: '9876543210', upi: 'raju@upi', payment: ['cash', 'upi'] },
+  { id: 2, name: 'Sunita Devi', skill: 'Tailor', location: 'Secunderabad', avatar: '🧵', color: '#3a1e5f', tags: ['Blouse', 'Saree', 'Alterations'], rating: 4.9, reviews: 85, price: 150, phone: '9123456780', upi: '', payment: ['cash'] },
+  { id: 3, name: 'Mohan Das', skill: 'Electrician', location: 'Kukatpally', avatar: '⚡', color: '#1e5f3a', tags: ['Wiring', 'Fan Fitting', 'MCB'], rating: 4.7, reviews: 200, price: 250, phone: '9988776655', upi: 'mohan@upi', payment: ['cash', 'upi'] },
+  { id: 4, name: 'Priya Nair', skill: 'Cook', location: 'Banjara Hills', avatar: '🍳', color: '#5f3a1e', tags: ['South Indian', 'Tiffin', 'Events'], rating: 5.0, reviews: 60, price: 300, phone: '9871234560', upi: 'priya@upi', payment: ['upi'] },
+  { id: 5, name: 'Ramesh Kumar', skill: 'Carpenter', location: 'LB Nagar', avatar: '🪵', color: '#1e5f5f', tags: ['Furniture', 'Doors', 'Polish'], rating: 4.6, reviews: 95, price: 350, phone: '9765432100', upi: '', payment: ['cash'] },
+  { id: 6, name: 'Salim Sheikh', skill: 'Mechanic', location: 'Mehdipatnam', avatar: '🚗', color: '#5f1e1e', tags: ['Bike', 'Car', 'Engine'], rating: 4.8, reviews: 140, price: 200, phone: '9654321090', upi: 'salim@upi', payment: ['cash', 'upi'] },
+]
